@@ -1,0 +1,4 @@
+# Keep the large source datasets and full integrated export on this computer.
+data/*.csv
+data/**/*.csv
+resultados/accidentes_integrados.csv

@@ -1,0 +1,12 @@
+﻿INDICADOR,VALOR
+Siniestros en ACCIDENTE,907596.0
+CODIGO_ACCIDENTE único en ACCIDENTE,907596.0
+Siniestros sin gravedad,6.0
+Siniestros con causa registrada y nombre válido,883570.0
+Siniestros con vía principal registrada y cruce válido,493675.0
+Cobertura de causas sobre ACCIDENTE (%),97.35
+Cobertura de vías principales sobre ACCIDENTE (%),54.39
+Claves de causas no presentes en ACCIDENTE,1.0
+Claves de vías principales no presentes en ACCIDENTE,307038.0
+Filas de causas luego de deduplicar,1185161.0
+Filas de vías principales,803233.0
