@@ -116,6 +116,10 @@ st.caption(
     "Exploración de gravedad, causas registradas y características de las vías "
     "según localidad y franja horaria."
 )
+st.caption(
+    "Limitación principal: la tabla vial cubre 493.675 siniestros "
+    "(54,39 % de ACCIDENTE). No se dispone de aforos ni exposición al tránsito."
+)
 
 archivos = [
     CARPETA_RESULTADOS / "resumen_accidentes.csv",
